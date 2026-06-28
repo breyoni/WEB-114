@@ -1,3 +1,5 @@
+<!-- Kim'Breon Shepherd - Saturday Jun 27 -->
+
 "use strict";
 
 /* PLANNING / PSEUDOCODE
